@@ -1,20 +1,15 @@
-# Molkky
-# FR
+# 🎳 Molkky
 
-**Molkky** est une simulation du jeu traditionnel de quilles, recréée en Python avec deux implémentations différentes. Le but est de faire tomber un ensemble de quilles numérotées en lançant un bâton de bois (le Molkky) pour atteindre exactement 50 points. Attention ! Si vous dépassez les 50 points, votre score sera réduit à 25. 
+## FR - Description
+**Molkky** est une simulation Python du jeu traditionnel de quilles. L’objectif : atteindre exactement 50 points en faisant tomber des quilles numérotées avec un bâton. Si vous dépassez 50 points, votre score revient à 25.  
+Deux versions disponibles, sans interface graphique.  
 
-Mettez vos compétences mathématiques à l'épreuve et devenez un maître du Molkky virtuel !
-
-**Remarque** : Les versions proposées sont purement informatiques et ne comportent pas d'interface graphique.
-
----
-
-# EN
-
-**Molkky** is a simulation of the traditional skittles game, recreated in Python with two different implementations. The goal is to knock down a set of numbered skittles by throwing a wooden stick (the Molkky) to score exactly 50 points. Beware! If you exceed 50 points, your score will be reduced to 25.
-
-Test your mathematical skills and become a virtual Molkky master!
-
-**Note**: The versions are purely computer-based and do not include a graphical interface.
+Mettez vos compétences mathématiques à l’épreuve et devenez un maître du Molkky virtuel !
 
 ---
+
+##  EN - Description
+**Molkky** is a Python simulation of the traditional skittles game. The goal: score exactly 50 points by knocking down numbered skittles with a stick. If you exceed 50 points, your score resets to 25.  
+Two versions available, no graphical interface.  
+
+Test your math skills and become a virtual Molkky master!
